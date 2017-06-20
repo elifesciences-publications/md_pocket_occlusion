@@ -1,3 +1,5 @@
+### This code is associated with the paper "Probing protein flexibility reveals a mechanism for selective promiscuity". eLife, 2017. 10.7554/eLife.22889
+
 md_pocket_occlusion
 
 Copyright 2016 Nicolas A Pabon, Matthew Baumgartner
